@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          CodersConnect
+          Connectify
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
